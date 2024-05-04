@@ -5,9 +5,9 @@ This Python project demonstrates how to scan for Bluetooth Low Energy (BLE) devi
 ## Installation
 
 1. Clone the repository:
-   - ` git clone https://github.com/your-username/ble-device-scanner.git `
+   - ` git clone https://github.com/mabdinasir/bleak.git `
 2. Navigate to the project directory:
-  - ` cd ble-device-scanner `
+  - ` cd bleak `
 3. Install the required dependencies: Bleak
   - pip3 install bleak
 
