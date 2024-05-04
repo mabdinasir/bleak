@@ -19,9 +19,8 @@ async def scanner():
             print("    - Manufacturer Data:")
             for key, value in desired_device.metadata['manufacturer_data'].items():
                 print(f"        - {key}: {value}")
-        # return devices
+        return devices
     else:
         print("MINI-02-2F6A device not found.")
 
 asyncio.run(scanner())
-

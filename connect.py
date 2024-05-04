@@ -17,10 +17,3 @@ async def connect(address, MODEL_NBR_UUID):
 
     except Exception as e:
         print(f"Failed to connect to device at address {address}: {e}")
-
-# devices = asyncio.run(scanner())
-# if devices:
-#     for device in devices:
-#         address = device.address
-#         MODEL_NBR_UUID = "43523"
-#         asyncio.run(connect(address, MODEL_NBR_UUID))
