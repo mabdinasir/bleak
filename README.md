@@ -29,7 +29,7 @@ This Python project demonstrates how to scan for Bluetooth Low Energy (BLE) devi
 
 ## License
 
-This project is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT). file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
 ## Acknowledgments
 
